@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec3dd7ec5f166f048858bce57a3008e6, type: 3}
+  m_Name: 'Env_Glacier[02]'
+  m_EditorClassIdentifier: 
+  _prefab: {fileID: 1320908410029467427, guid: bcfeadf88ef00e54e81e7de8add86f08, type: 3}
+  _manualScale: {x: 1, y: 1, z: 1}
+  _icon: {fileID: 0}
+  _category: 1
+  _fireStatus: 0
+  _movementStatus: 2
+  _specialStatus: 0

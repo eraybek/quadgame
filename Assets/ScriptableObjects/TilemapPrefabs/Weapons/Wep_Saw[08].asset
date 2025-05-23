@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec3dd7ec5f166f048858bce57a3008e6, type: 3}
+  m_Name: 'Wep_Saw[08]'
+  m_EditorClassIdentifier: 
+  _prefab: {fileID: 3383073422997248521, guid: 3351a7a81c53f594cb6674d2b9c4d13f, type: 3}
+  _manualScale: {x: 1, y: 1, z: 1}
+  _manualRotation: {x: 0, y: 0, z: 0}
+  _manualPositionOffset: {x: 0, y: 0, z: 0}
+  _category: 4
+  _fireStatus: 0
+  _flammableStatus: 0
+  _movementStatus: 0
+  _specialStatus: 0
+  _isActive: 0

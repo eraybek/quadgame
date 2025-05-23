@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d03a8a7db19a9824d9a82bb8f40729f0, type: 3}
+  m_Name: FireBullet
+  m_EditorClassIdentifier: 
+  bulletName: Fire Bullet
+  speed: 10
+  impactRadius: 0.1
+  visualPrefab: {fileID: 8472778409162353024, guid: b827c45ea69f29045aa5d0b6dde20c90, type: 3}
+  fireSound: {fileID: 0}
+  impactSound: {fileID: 0}
+  destroyOnImpact: 1
