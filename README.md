@@ -1,2 +1,0 @@
-# Quad_Prod
-

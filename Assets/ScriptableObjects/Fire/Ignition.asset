@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 010b02cf692ba1046832701a932f2022, type: 3}
   m_Name: Ignition
   m_EditorClassIdentifier: 
-  burnTime: 20
-  burnOutTime: 15
+  burnTime: 5
+  burnOutTime: 10
   burnedTilePrefab: {fileID: 0}

@@ -4,33 +4,36 @@
 TagManager:
   serializedVersion: 3
   tags:
-  - Enemy
   - FireVFX
-  - SpawnGrid
-  - WaterBullet
-  - DroneBullet
-  - Bullet
-  - BaseGrid
-  - FireBullet
   - BaseTarget
-  - Gun
+  - Grass
   - Burned_Visual
   - Flammable_Visual
+  - BaseGrid
+  - Enemy
+  - FireBullet
+  - DroneBullet
+  - WaterBullet
+  - Bullet
+  - AmmoPlatform
+  - ChargePlatform
+  - WaterPlatform
+  - DroneLimit
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Ground
   - Water
   - UI
-  - Ground
-  - Player
-  - WalkableGrid
   - FlammableGrid
+  - WalkableGrid
   - Enemy
-  - 
-  - 
-  - 
+  - Player
+  - Platform
+  - SpawnGrid
+  - Sea
+  - Bullet
   - 
   - 
   - 
